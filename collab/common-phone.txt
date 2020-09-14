@@ -1,0 +1,107 @@
+# Please describe proposed Common phone features in this document
+
+Black and white or color Screen
+
+
+At least 4 softkeys for features
+
+
+Capable of at least 2 lines
+
+
+Support for G.711, G.729 and G.722 codecs
+
+
+No Support for H.265 Video required
+
+
+Wide band capable Handset
+
+
+Bluetoothe Capable
+
+
+No 802.11ac capable Wifi as an alternative to wired Port
+
+
+Capable of 802.1p and DSCP
+
+
+Capable of CDP and/or LLDP-MED
+
+
+Must have Volume buttons
+
+
+Capable of attaching a wired headset
+
+
+Capable of DHCP
+
+
+Capable of using DNS
+
+
+Must use SIP as a signaling protocol
+
+
+Must be capable of using X.509 digital certficates for Authentication
+
+
+If a web browser is used to manage the device, it must be capable of HTTPS
+
+
+Configurable Timezone/Offset
+
+
+Configurable automatic recurring daylight savings time
+
+
+Support for SNMPv2C, & SNMPv3
+
+
+Support for traps that is an agent on the switch to send an unsolicited notifications to the SNMP manager for a configured event.
+
+
+Speaker phone, high quality and full duplex
+
+
+External Audio Port
+
+
+USB
+
+
+Must have Hold, transfer and conference hard keys
+
+
+Must have a Message waiting indicator
+
+
+Must have Mute capability
+
+
+Must use 802.3af inline power 
+
+
+Must be capable of using a power brick
+
+
+Must be Energy Star Certified
+
+
+Must have MoH configured through a network server
+
+
+Must have Redial, Call Pickup and Call Hold
+
+
+Must be capable of configured speed dials and/or directories
+
+
+Must be capable of silent monitoring
+
+
+Must be capable of using shared lines between phones
+
+

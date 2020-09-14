@@ -1,0 +1,72 @@
+# Please describe Data Center Access Switch features in this document
+
+Fixed Configuration
+
+
+19 inch rack mounting
+
+
+Nonblocking operation
+
+
+Supports up to 200000 Mac addresses
+
+
+Redundant Power Supplies
+
+
+System Memory >= 20GB
+
+
+Buffer capabilities >= 36 MB
+
+
+Port options 1G/10G/40G/100G
+
+
+NTP Version 3 or greater Required
+
+
+Configurable NTP Peer and Server Associations
+
+
+Configurable NTP Authentication
+
+
+Configurable NTP Access Restrictions
+
+
+Configurable Source IP Address for NTP packets
+
+
+Configurable Timezone/Offset
+
+
+Configurable automatic recurring daylight savings time
+
+
+Configurable per Interface
+
+
+Support for SNMPv2C, & SNMPv3
+
+
+Support for traps that is an agent on the switch to send an unsolicited notifications to the SNMP manager for a configured event.
+
+
+Configurable source IP address or interface for traps.
+
+
+Supports both read-only (RO) and read-write (RW) community strings
+
+
+Ability to restrict each community string to specific IP addresses independently
+
+
+Ability to configure different SNMP versions for each SNMP manager
+
+
+Support for multiple RO and RW community strings
+
+
+Support for multiple SNMP profiles

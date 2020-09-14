@@ -1,0 +1,82 @@
+# Please describe Core Switch features in this document
+
+Modular Configuration
+
+
+19 inch rack mounting
+
+
+Nonblocking operation
+
+
+Supports up to 72000 Mac addresses
+
+
+802.1x Support
+
+
+MAC Authentication Bypass
+
+
+Dynamic VLAN Assignment
+
+
+Configurable number of MAC Addresses allowed per port
+
+
+Configurable actions to take when violation occurs
+
+
+Ability to configure MAC address or addresses allowed per port
+
+
+Ability to learn and stick a MAC Address per port
+
+
+Support for SNMPv2C, & SNMPv3
+
+
+Support for traps that is an agent on the switch to send an unsolicited notifications to the SNMP manager for a configured event.
+
+
+Configurable source IP address or interface for traps.
+
+
+Supports both read-only (RO) and read-write (RW) community strings
+
+
+Ability to restrict each community string to specific IP addresses independently
+
+
+Ability to configure different SNMP versions for each SNMP manager
+
+
+Support for multiple RO and RW community strings
+
+
+Support for multiple SNMP profiles
+
+
+Must be able to disable spanning tree per port
+
+
+Ability to transition immediately to forwarding state per port on edge ports with 802.1d/s/w
+
+
+Ability to disable topology change notifications per port on edge ports with 802.1d/s/w
+
+
+STP cost configurable per port (0 to 240) 802.1d & 802.1t 
+
+
+STP priority configurable per VLAN (0 to 61,440) 802.1d & 802.1t 
+
+
+Ability to prevent rogue bridges from becoming the STP root
+
+
+Ability to prevent an alternate port or a root port from assuming a designated port role due to the absence of BPDUs.
+
+
+Ability to configure STP edge ports to disable upon receiving a BPDU
+

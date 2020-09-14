@@ -1,0 +1,77 @@
+# Please describe proposed Wall phone features in this document
+
+Black and white or color Screen
+
+
+At least 2 softkeys for features
+
+
+Capable of at least 1 line
+
+
+Support for G.711, G.729 and G.722 codecs
+
+
+No Support for H.265 Video required
+
+
+Standard band capable Handset
+
+
+No Bluetooth Capability required
+
+
+No 802.11ac capable Wifi as an alternative to wired Port
+
+
+Capable of 802.1p and DSCP
+
+
+Capable of CDP and/or LLDP-MED
+
+
+Must have Volume buttons
+
+
+Capable of attaching a wired headset
+
+
+Capable of DHCP
+
+
+Capable of using DNS
+
+
+Must use SIP as a signaling protocol
+
+
+Must be capable of using X.509 digital certficates for Authentication
+
+
+If a web browser is used to manage the device, it must be capable of HTTPS
+
+
+Configurable Timezone/Offset
+
+
+Configurable automatic recurring daylight savings time
+
+
+Support for SNMPv2C, & SNMPv3
+
+
+Support for traps that is an agent on the switch to send an unsolicited notifications to the SNMP manager for a configured event.
+
+
+Must be capable of at least hookflash transfer
+
+
+Must be capable of PLAR
+
+
+Must support MoH from an external server
+
+
+Must be capable of caller id
+
+
