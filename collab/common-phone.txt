@@ -1,7 +1,7 @@
 # Please describe proposed Common phone features in this document
 
 Black and white or color Screen
-
+The screen is black and white.
 
 At least 4 softkeys for features
 
