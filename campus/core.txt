@@ -16,7 +16,7 @@ Supports up to 72000 Mac addresses
 
 
 MAC Authentication Bypass
-
+MAB works
 
 Dynamic VLAN Assignment
 
