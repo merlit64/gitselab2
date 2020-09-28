@@ -4,7 +4,7 @@ Fixed Configuration
 
 
 19 inch rack mounting
-
+The NExus comes with rack ears for 19 inch rack.
 
 Nonblocking operation
 
